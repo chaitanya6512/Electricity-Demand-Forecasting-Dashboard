@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+.env/
+ENV/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (saved models, large files)
+models/
+*.pkl
+*.joblib
+
+# Plots (can be regenerated)
+plots/
+venv/
