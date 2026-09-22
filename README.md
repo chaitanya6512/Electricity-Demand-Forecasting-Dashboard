@@ -10,8 +10,7 @@ This project provides an end-to-end solution for time-series forecasting, allowi
 
 ---
 
-🚀 **Live Demo**: [Electricity Demand Forecasting Dashboard](https://electricity-demand-forecasting-dashboard.streamlit.app/)
-
+🚀 **Live Demo**: [Electricity Demand Forecasting Dashboard]
 
 ## 🚀 Key Features
 
@@ -67,8 +66,8 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/ayusharma176/electricity-demand-forecasting-dashboard.git](https://github.com/ayusharma176/electricity-demand-forecasting-dashboard.git)
-    cd electricity-demand-forecasting-dashboard
+    git clone [https://github.com/chaitanya6512/Electricity-Demand-Forecasting-Dashboard.git](https://github.com/chaitanya6512/Electricity-Demand-Forecasting-Dashboard.git)
+    cd Electricity-Demand-Forecasting-Dashboard
     ```
 
 2.  **Create a Virtual Environment**
